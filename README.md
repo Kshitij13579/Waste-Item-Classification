@@ -1,4 +1,4 @@
-# Garbage Classification using Deep Learning
+# COMP 6341 - Garbage Classification using Deep Learning
 
 ### Team Members
  
